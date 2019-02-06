@@ -3,7 +3,7 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 ##「いつ、どのゴミが収集されているのか？」
 
 ゴミの問題はどの地域でも深刻になりつつあります。
- [Code for kitami](http://codeforkanazawa.org/)
+ [Code for kitami]()
 では、先ずは正しいゴミの捨て方に注目しました。例えばお引っ越しをされた場合、このアプリを使えばすぐに分かるように、目的と使い方をとてもシンプルにデザインしました。
 
 ## ブランチの運用について
